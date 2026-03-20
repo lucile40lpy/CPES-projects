@@ -10,17 +10,19 @@ Cours : "Projet de Recherche encadré" \& "Code your project's website"
 
 
 
-### Lien vers le GitHub accueillant les fichiers du site web WASPP, et un Readme :
+##### Lien vers le GitHub accueillant les fichiers du site web WASPP, et un Readme :
 
 https://github.com/lucile40lpy/2025-26\_website\_LL/tree/main
 
 
 
-### Lien vers le site web WASPP, déployé par Render via l'hébergement sur GitHub :
+##### Lien vers le site web WASPP, déployé par Render via l'hébergement sur GitHub :
 
 https://two025-26-website-ll.onrender.com
 
+The project is described on the website.
 
 
-### The data collection and analysis cannot be shared for privacy reasons.
+
+##### The data collection and analysis cannot be shared for privacy reasons.
 
