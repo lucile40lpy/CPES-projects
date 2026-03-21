@@ -1,4 +1,4 @@
-# WASPP (What Are Students' Pedagogical Préférences?)
+# WASPP (What Are Students' Pedagogical Preferences?)
 
 
 
@@ -20,7 +20,7 @@ https://github.com/lucile40lpy/2025-26\_website\_LL/tree/main
 
 https://two025-26-website-ll.onrender.com
 
-The project is described on the website.
+Le contenu du projet est détaillé sur le site web.
 
 
 
